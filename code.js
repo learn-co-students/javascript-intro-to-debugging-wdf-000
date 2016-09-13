@@ -4,5 +4,6 @@ function sayHey() {
 }
 
 function sayHeyFriend(name) {
-  return `hey ${name}!!`
+  return "hey " + name + "!!"
+  // return `hey ${name}!!"
 }
